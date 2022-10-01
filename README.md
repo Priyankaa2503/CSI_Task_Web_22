@@ -11,7 +11,7 @@
 3. CSS - For beautifying the website.
 4. JS - For interactivity between the components and providing functionality to the webapp.
 
-The API used for fetching the quiz questions is - https://programming-quotes-api.herokuapp.com/Quotes?count=0
+The API used for fetching the quotes and author name is - https://programming-quotes-api.herokuapp.com/Quotes?count=0
 
 ## Output Images of the WebApp
 
